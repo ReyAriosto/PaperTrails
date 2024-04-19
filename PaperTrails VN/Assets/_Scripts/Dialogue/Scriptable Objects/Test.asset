@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2d34fda26bf48a4ebf82f4b9bbeb10b, type: 3}
+  m_Name: Test
+  m_EditorClassIdentifier: 
+  lines:
+  - 'I don''t know what''s the first sentence is gonna be
+
+    [press SPACE to continue]'
+  - 'I pressed the Button
+
+    [press SPACE to continue]'
+  - 'Is he Dead?!
+
+    [press SPACE to continue]'
+  - 'Fish is actually dead!
+
+    [press SPACE to continue]'
+  Character_Showcases:
+  - {fileID: 21300000, guid: 95df004e3aceae94ba7be0007fd9276b, type: 3}
+  - {fileID: 21300000, guid: 2b4a0ae87b72e2040af239253f4b1904, type: 3}
+  - {fileID: 21300000, guid: 95df004e3aceae94ba7be0007fd9276b, type: 3}
+  - {fileID: 21300000, guid: 2b4a0ae87b72e2040af239253f4b1904, type: 3}
